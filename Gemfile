@@ -10,4 +10,4 @@ source 'https://rubygems.org'
 
 gem "github-pages", group: :jekyll_plugins  # Includes Jekyll 3.10.0
 gem "webrick"    
-gem "just-the-docs", "~> 0.7"               # A version compatible with Jekyll 3.10.0
+gem "just-the-docs", "~> 0.10"              # A version compatible with Jekyll 3.10.0
