@@ -2,7 +2,7 @@
 title: Creating Commands
 layout: home
 parent: Arm and Drivetrain
-nav_order: 4
+nav_order: 5
 ---
 
 # Creating Commands

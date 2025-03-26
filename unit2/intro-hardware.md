@@ -19,6 +19,7 @@ TODO:
 * Information about encoders in the drive motors.
 * Images of various parts
 * LED
+* IMU (gyro) 
 -->
 
 # Parts of an XRP Minibot
@@ -29,10 +30,10 @@ Each XRP bot comes equipped with various parts and peripherals (external device)
   </details>
 * <details>
   <summary>Drive Motors</summary>
-  The XRP Minibot has two geared drive motors. Drive motors are motors that rotate and control the wheels, allowing the robot to move forward, backwards, or turn.
+  The XRP Minibot has two geared drive motors with [encoders](/unit4/encoders.html). Drive motors are motors that rotate and control the wheels, allowing the robot to move forward, backwards, or turn.
   </details>
 * <details>
-  <summary>Rangefinder</summary>
+  <summary>Rangefinder Sensor</summary>
   The XRP Minibot has an ultrasonic rangefinder that measures the distance between the robot and an object using sound waves. 
   </details>
 * <details>
